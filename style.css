@@ -18,6 +18,7 @@ body {
   width: 100%;
 }
 
+
 .nav-links a {
   margin-left: 20px;
   text-decoration: none;
@@ -30,25 +31,29 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: linear-gradient(to right, #0052D4, #4364F7, #6FB1FC);
-  color: white;
+  background: #ffffff;
+  color: #222;
   padding-top: 80px;
 }
+
 
 .hero h1 {
   font-size: 48px;
   margin-bottom: 20px;
+  color: #111;
 }
+
 
 .hero button {
   padding: 12px 25px;
   border: none;
-  background: white;
-  color: #0052D4;
+  background: #ff7a00;  /* brand orange */
+  color: white;
   font-weight: bold;
   cursor: pointer;
   border-radius: 5px;
 }
+
 
 .services {
   padding: 80px 60px;
