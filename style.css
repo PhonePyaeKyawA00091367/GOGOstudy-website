@@ -140,4 +140,11 @@ body {
   letter-spacing: -0.5px;
 }
 
+  .logo {
+  font-size: 22px;
+  font-weight: 700;
+  color: #e76f00;   /* premium orange */
+  letter-spacing: -0.5px;
+}
+
 }
