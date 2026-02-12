@@ -165,5 +165,8 @@ body {
   transform: translateY(-3px);
 }
 
-  
+ .navbar .logo {
+  color: #e76f00 !important;
+}
+ 
 }
