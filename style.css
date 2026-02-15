@@ -206,5 +206,17 @@ body {
   border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.05);
 }
+.page-section {
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.review-card {
+  background: #f5f5f5;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  border-radius: 10px;
+}
 
 }
